@@ -9,7 +9,7 @@ var canvas,			// Canvas DOM element
 
 
 /**************************************************
-** GAME INITIALISATION
+** GAME INITIALISATION change!
 **************************************************/
 function init() {
 	// Declare the canvas and rendering context
